@@ -1,5 +1,5 @@
 def total_students(english, french):
-    return len(english.union(french))
+    return len(english.intersection(french))
 
 eng_no = int(input())
 english_reader = input().split(' ')
