@@ -1,4 +1,4 @@
-# Program Name: Linear Search
+# Program Name: Binary Search
 # Author      : Senthil Kumar Kanagaraj
 # Date        : 05-Dec-2021
 # Source      : GeeksforGeeks
