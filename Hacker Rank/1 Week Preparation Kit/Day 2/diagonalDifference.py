@@ -1,6 +1,5 @@
 
 def findDiagonal(matrix, n):
-
     firstDiagonal = 0
     secondDiagonal = 0
     for r in range(n):
