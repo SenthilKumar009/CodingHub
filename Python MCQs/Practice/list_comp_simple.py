@@ -7,4 +7,3 @@ print(squared_list)
 squared_dict = {x:x**2 for x in my_list}    # dict comprehension
 # output => {11: 121, 2: 4 , 3: 9 , 5: 25 , 7: 49}
 print(squared_dict)
-
